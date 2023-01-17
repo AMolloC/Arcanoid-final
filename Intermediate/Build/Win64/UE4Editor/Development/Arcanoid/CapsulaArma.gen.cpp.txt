@@ -1,0 +1,7 @@
+D:\SIS457\Arkanoid master\Arcanoid master\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Definitions.Arcanoid.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\SIS457\Arkanoid master\Arcanoid master\Source\Arcanoid/CapsulaArma.h
+D:\SIS457\Arkanoid master\Arcanoid master\Source\Arcanoid\Capsula.h
+D:\SIS457\Arkanoid master\Arcanoid master\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Capsula.generated.h
+D:\SIS457\Arkanoid master\Arcanoid master\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\CapsulaArma.generated.h

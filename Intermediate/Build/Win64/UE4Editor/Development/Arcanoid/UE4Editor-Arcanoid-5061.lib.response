@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Arcanoid-5061.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoid\Intermediate\Build\Win64\ArcanoidEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Arcanoid.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\ArcanoidGameModeBase.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Ball.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Brick.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Paddle.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\PaddlePlayerController.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Arcanoid.init.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\ArcanoidGameModeBase.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Ball.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Brick.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Paddle.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\PaddlePlayerController.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Default.rc2.res"
+/OUT:"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\UE4Editor-Arcanoid-5061.lib"

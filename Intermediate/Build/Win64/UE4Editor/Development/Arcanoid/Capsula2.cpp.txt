@@ -1,0 +1,5 @@
+D:\SIS457\Arkanoid master\Arcanoid master\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Definitions.Arcanoid.h
+D:\SIS457\Arkanoid master\Arcanoid master\Source\Arcanoid\Capsula2.h
+D:\SIS457\Arkanoid master\Arcanoid master\Source\Arcanoid\Capsula.h
+D:\SIS457\Arkanoid master\Arcanoid master\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Capsula.generated.h
+D:\SIS457\Arkanoid master\Arcanoid master\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Capsula2.generated.h
